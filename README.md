@@ -1,4 +1,5 @@
 # What is all about?
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/cyberFund/Jah-Wallet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The fundamental idea that lives behind Jah is to implement wallet that will hide current complexity within [existing crypto protocols and networks](https://github.com/cyberFund/cyberDigest) and will allow people just create, keep and transfer any type of assets as their true digital property like [Coinprism](https://www.coinprism.com).
 
 But the purpose of Jah is not only in allowing people to use digital assets, but to give creative power to developers to build apps that disrupts existing apps and make monetisation of any app very simple.
